@@ -1,2 +1,2 @@
-# Introduction-to-Data-Science-With-Python--UM-
-Christopher Brooks online Data Science with Python class
+# Applied Data Science with Python
+University of Michigan's online Applied Data Sciences with Python class
